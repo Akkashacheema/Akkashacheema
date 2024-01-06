@@ -1,4 +1,4 @@
-![logo](https://github.com/Akkashacheema/Akkashacheema/blob/main/Akkasha%20Cheeema.png)
+<div width="200">![logo](https://github.com/Akkashacheema/Akkashacheema/blob/main/Akkasha%20Cheeema.png)</div>
 <h1 align="center">Hi 👋, I'm Akkasha Latif</h1>
 <h3 align="center">Expert in Machine and Deep Learning</h3>
 <p align="center"> <img width="200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" /> </p>
