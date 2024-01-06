@@ -1,3 +1,4 @@
+![logo](https://github.com/Akkashacheema/Akkashacheema/blob/main/Akkasha%20Cheeema.png)
 <h1 align="center">Hi 👋, I'm Akkasha Latif</h1>
 <h3 align="center">Expert in Machine and Deep Learning</h3>
 <img align = "left" alt="coding" width="200" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362400-6031665.mp4">
