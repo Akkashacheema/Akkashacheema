@@ -1,7 +1,6 @@
 ![logo](https://github.com/Akkashacheema/Akkashacheema/blob/main/Akkasha%20Cheeema.png)
 <h1 align="center">Hi 👋, I'm Akkasha Latif</h1>
 <h3 align="center">Expert in Machine and Deep Learning</h3>
-<img align = "left" alt="coding" width="200" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362400-6031665.mp4">
 <p align="left"> <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akkashacheema" alt="akkashacheema" /></a> </p>
