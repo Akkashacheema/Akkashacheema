@@ -1,7 +1,7 @@
 ![logo](https://github.com/Akkashacheema/Akkashacheema/blob/main/Akkasha%20Cheeema.png)
 <h1 align="center">Hi 👋, I'm Akkasha Latif</h1>
 <h3 align="center">Expert in Machine and Deep Learning</h3>
-<p align="right"> <img width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" /> </p>
+<p align="center"> <img width="200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akkashacheema" alt="akkashacheema" /></a> </p>
 
 - 🔭 I’m currently working on **Parameter optimization by PSO**
