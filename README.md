@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akashacheema70@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1794liBgkPmWyXnWGnSc-bEBml3ashrnF/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1t9cMhfPXZeJPJaUqpE0WM4Y0G3IMdNq1/view?usp=sharing
   
 
 - ⚡ Fun fact **Neural Network Whisperer**
